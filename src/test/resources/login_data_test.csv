@@ -1,0 +1,5 @@
+username,password,expectedStatus
+user1,123456,200
+user2,wrongpass,401
+admin,admin123,200
+user3,asdasd,401
