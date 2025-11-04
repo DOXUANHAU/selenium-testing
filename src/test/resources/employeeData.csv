@@ -1,0 +1,6 @@
+firstName,middleName,lastName,expected
+asd,q1we12,Do13e12e,success
+fqwf,qwefqwef,Sm31423ith,success
+Tom,,Brown,success
+,David,Lee,failure
+Sarah,, ,failure
